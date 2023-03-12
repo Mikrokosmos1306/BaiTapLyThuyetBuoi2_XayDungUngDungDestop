@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\bin\Debug\BaiTapLyThuyetSo2.exe.config
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\bin\Debug\BaiTapLyThuyetSo2.exe
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\bin\Debug\BaiTapLyThuyetSo2.pdb
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.Properties.Resources.resources
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.exe
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.pdb
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyetSo2\BaiTapLyThuyetSo2\obj\Debug\BaiTapLyThuyetSo2.BaiTapTrang35.resources
