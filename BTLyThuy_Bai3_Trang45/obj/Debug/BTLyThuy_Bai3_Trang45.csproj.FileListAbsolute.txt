@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\bin\Debug\BTLyThuy_Bai3_Trang45.exe.config
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\bin\Debug\BTLyThuy_Bai3_Trang45.exe
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\bin\Debug\BTLyThuy_Bai3_Trang45.pdb
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.Form1.resources
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.Properties.Resources.resources
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.exe
+C:\Users\PC\Documents\Luyện tập\BaiTapLyThuyet_Bai1_Trang35\BTLyThuy_Bai3_Trang45\obj\Debug\BTLyThuy_Bai3_Trang45.pdb
